@@ -20,7 +20,7 @@ export const Footer = () => {
               Empowering farmers across Ghana through technology, training, and sustainable agricultural practices.
             </p>
           </div>
-          
+
           <div>
             <h4 className="font-semibold mb-4">Quick Links</h4>
             <ul className="space-y-2 text-sm text-slate-300">
@@ -30,7 +30,7 @@ export const Footer = () => {
               <li><a href="#" className="hover:text-emerald-400 transition-colors">Impact Stories</a></li>
             </ul>
           </div>
-          
+
           <div>
             <h4 className="font-semibold mb-4">Connect</h4>
             <div className="flex gap-4 mb-4">
@@ -47,9 +47,9 @@ export const Footer = () => {
             </p>
           </div>
         </div>
-        
+
         <div className="border-t border-slate-800 mt-8 pt-6 text-center text-sm text-slate-400">
-          <p>&copy; 2024 AgriTrack. Built by Jescaps Antwi. All rights reserved.</p>
+          <p>&copy; 2025 AgriTrack. Built by Jescaps Antwi. All rights reserved.</p>
         </div>
       </div>
     </footer>
