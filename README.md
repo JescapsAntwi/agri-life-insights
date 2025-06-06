@@ -99,7 +99,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 👥 Authors
 
 - Jescaps Antwi
-- Learn more: https://jesantwi.ver
+- Learn more: https://jesantwi.ve
 
 ## 🙏 Acknowledgments
 
