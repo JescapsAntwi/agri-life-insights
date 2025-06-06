@@ -98,7 +98,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- Jescaps Antwi - Ini
+- Jescaps Antwi - In
 
 ## 🙏 Acknowledgments
 
